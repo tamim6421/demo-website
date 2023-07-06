@@ -1,0 +1,84 @@
+
+.heder{
+    width: 98%;
+    border: 1px solid black;
+    height: 50px;
+    background-color: aliceblue;
+
+}
+.icons{
+    border: 1px solid black;
+    width: 10%;
+    height: 50px;
+    float: right;
+    box-sizing: border-box;
+}
+.icon1{
+    width:50% ;
+    height:50px ;
+    border: 1px solid white;
+    
+    background-color: tomato;
+    box-sizing: border-box;
+}
+.icon2{
+    width:48% ;
+    height:48px ;
+    border: 1px solid white;
+    float: left;
+    background-color: black;
+}
+
+.mainbody{
+    width: 98%;
+    border: 1px solid black;
+    height: 500px;
+    background-color:#ddd;
+}
+.footer{
+    width: 98%;
+    border: 1px solid black;
+    height: 100px;
+    background-color: burlywood;
+
+}
+.sidecontent{
+    border: 1px solid black;
+    width: 20%;
+    height: 500px;
+    float:left;
+    box-sizing: border-box;
+
+}
+.sidecontent2{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.links{
+    border: 1px solid yellow;
+    width: 29%;
+    height: 250px;
+    float: left;
+    
+}
+.mylinks{
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    background-color: black;
+    box-sizing: border-box;
+    float: left;
+
+}
+.otherlinks{
+    border: 1px solid red;
+    width: 50%;
+    height: 250px;
+    float: left;
+    background-color: yellow;
+    box-sizing: border-box;
+
+
+}
